@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="colorTransparent">#00ffffff</color>
+
+    <color name="colorGradientStart">#34e1eb</color>
+    <color name="colorGradientCenter">#e1f4f5</color>
+    <color name="colorGradientEnd">#d1eb3d</color>
+
+    <color name="colorGradientStart1">#E7DDE6</color>
+    <color name="colorGradientCenter1">#FFC107</color>
+    <color name="colorGradientEnd1">#FFEB3B</color>
+
+    <color name="colorGradientStart2">#EEE5DE</color>
+    <color name="colorGradientCenter2">#EEA9B8</color>
+    <color name="colorGradientEnd2">#EE799F</color>
+
+    <color name="colorGradientStart3">#EE799F</color>
+    <color name="colorGradientCenter3">#e1f4f5</color>
+    <color name="colorGradientEnd3">#8057e1</color>
+
+    <color name="colorGradientStart4">#933c94</color>
+    <color name="colorGradientCenter4">#6DACCB</color>
+    <color name="colorGradientEnd4">#87CEEB</color>
+
+    <color name="colorGradientStart5">#517f95</color>
+    <color name="colorGradientCenter5">#e1f4f5</color>
+    <color name="colorGradientEnd5">#d1eb3d</color>
+
+    <color name="purple_500">#9C27B0</color>
+    <color name="deep_purple_500">#673AB7</color>
+    <color name="indigo_500">#3F51B5</color>
+    <color name="blue_500">#2196F3</color>
+    <color name="cyan_500">#00BCD4</color>
+    <color name="light_blue_500">#03A9F4</color>
+
+</resources>
